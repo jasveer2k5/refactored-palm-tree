@@ -1,1 +1,70 @@
+<html>
+  <head>
+    <body>
+   
+    <button>clicl here....</button>
+    
+    <br><a target= "_blank" href="https://www.chromehearts.com/"> open CHROME HEARTS</a>
+    </body>
+
+<!--/Form inputs-->
+<form class="white-paper">
+  <!-- multiple Inputs: -->
+<center>
+    <div class="first-input">
+    <label>First name :</label>
+    <input type="text" placeholder="" />
+    </div>
+   <div class="second-input"> <label>last name :</label>
+    <input type="text" placeholder="">
+    </div>
+    <div class="third-input">
+    <label>Email :</label>
+    <input type="text" placeholder="" />
+    </div>
+    <div class="gender-input">
+      <label>Gender :</label>
+      
+        <label>Male</label>
+      <input type = "radio" name="gender" />
+      
+      
+        <label>Female</label>
+      <input type = "radio" name="gender" />
+      
+
+      
+        <label>Other</label>
+      <input type = "radio" name="gender" />
+      
+
+      <div class="number-input">
+        <label>Enter Age: </label>
+        <input type="number" placeholder="Age">
+        <div class="select-input">
+        <select>
+          <option value="">Students </option>
+          <option value="">Teachers </option>
+          <option value="">Employee </option>
+        </select>
+        <label> Bio</label>
+        <textarea>
+
+
+
+
+
+        </textarea>
+        <br><button>RESET</button>
+        <button>SUBMIT</button>
+        </div>
+        
+      </div>
+    </div>
+    </center>
+    </form>
+
+    </body>
+  </head>
+</html>
 
